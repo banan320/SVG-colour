@@ -1,0 +1,13 @@
+body {
+  background: #000000;
+  padding: 20px;
+}
+
+.img-svg path,
+.img-svg polygon {
+  fill: #026ffdb4; /* цвет картинки */
+  fill-opacity: 0.8; /* прозрачность заливки */
+  stroke: #ff0800; /* цвет обводки */
+  stroke-width: 30px; /* толщина обводки */
+  stroke-opacity: 0.7; /* прозрачность обводки */
+}
